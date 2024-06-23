@@ -14,7 +14,7 @@ window.open("http://travelromio.online/");
 } 
 
 else if (userInput == "gallery") {
-window.open("https://mc0749050.github.io/Photo-gallery-/");
+window.open("https://mc0749050.github.io/Gallery/");
 } 
 
 else if (userInput == "intrestcalculator") {
